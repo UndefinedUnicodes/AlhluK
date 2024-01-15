@@ -2,7 +2,7 @@
     <img src="https://cdn.discordapp.com/attachments/1093663968435904563/1196315438133547079/visky.png?ex=65b72e92&is=65a4b992&hm=684840d4065ee74d2590de0f5eb2a6c2689491845f464dfa02852fdc202faa83&" alt="Header Image">
 </div>
 
-<h1 align="center">Hi there, I'm UndefinedUnicodes! (AKA. AlhluK, Syro, and DeathCossack) 👋</h1>
+<h1 align="center">Hi there, I'm UndefinedUnicodes! (AKA. AlhluK, Syro, and DeathCossack/DeathKozak) 👋</h1>
 
 <p align="center">I'm a Ukrainian, and I am passionate about Malware creation with a love for computers (I will not post my own Malware here, of course; I post things I found leaked). You can usually find me busy and not really talkative.</p>
 

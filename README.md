@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1093663968435904563/1196315438133547079/visky.png?ex=65b72e92&is=65a4b992&hm=684840d4065ee74d2590de0f5eb2a6c2689491845f464dfa02852fdc202faa83&" alt="Header Image">
+    <img src="https://media.discordapp.net/attachments/1093663968435904563/1196342396737290301/cossakom.png?ex=65b747ae&is=65a4d2ae&hm=2e7ea49fa4225e8b1b8e8e36fc800d7bd05daa65ca0fd940b315500b82175fbc&=&format=webp&quality=lossless&width=1919&height=640" alt="Header Image">
 </div>
 
 <h1 align="center">Hi there, I'm UndefinedUnicodes! (AKA. AlhluK, Syro, and DeathCossack/DeathKozak) 👋</h1>

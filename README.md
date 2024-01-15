@@ -29,8 +29,8 @@
 <p align="center">
     - [Discord](deathcossack / ID: 755340887332093955)<br>
     - [Telegram](https://t.me/DATA_EXTRACTION)<br>
-    - [Email/Mail.Ru](matti.bln@inbox.ru)
-    - [Steam](https://steamcommunity.com/id/DEATHKOZAK/)
+    - [Email/Mail.Ru](matti.bln@inbox.ru)<br>
+    - [Steam](https://steamcommunity.com/id/DEATHKOZAK/)<br>
 </p>
 
 <h3 align="center">⚡ Fun fact:</h3>

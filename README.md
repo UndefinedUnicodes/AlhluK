@@ -7,7 +7,7 @@
 <p align="center">I'm a Ukrainian, and I am passionate about Malware creation with a love for computers (I will not post my own Malware here, of course; I post things I found leaked). You can usually find me busy and not really talkative.</p>
 
 <div align="center">
- A Malware Developer,
+[ A Malware Developer,
  a VS Editor,
  and a Reverse Engineer [ I Cheat in video games aswell ;) ]
 </div>

@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://media.discordapp.net/attachments/1093663968435904563/1196342396737290301/cossakom.png?ex=65b747ae&is=65a4d2ae&hm=2e7ea49fa4225e8b1b8e8e36fc800d7bd05daa65ca0fd940b315500b82175fbc&=&format=webp&quality=lossless&width=1919&height=640" alt="Header Image">
+    <img src="https://media.discordapp.net/attachments/1173118158270369904/1199106576234065950/deth.png?ex=65c15606&is=65aee106&hm=bd2133f5c322837f5127b5422e7caa0c9f68e4ab7f1729a21b7bd71f1bbf3c48&=&format=webp&quality=lossless&width=960&height=151" alt="Header Image">
 </div>
 <div align="center">
 <img src="https://www.stevenskelton.ca/flag-icon/png/225/country-4x3/gb.png"

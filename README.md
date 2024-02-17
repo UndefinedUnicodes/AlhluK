@@ -18,7 +18,7 @@
 <h3 align="center">💼 Currently working on:</h3>
 <p align="center">
     - [Exoluma-X (Stealer and Ransomware Malware) -(Finished but quit development because of me accidentally destroying my Windows boot for my computer. I will not release the source for it!)- ]<br>
-    - [Exolus Cloud (A Stealer Log Cloud Service I want to name soon)]
+    - [EX-SMS]
 </p>
 
 <h3 align="center">I currently code in:</h3>
@@ -60,7 +60,7 @@
 <h3 align="center">💼 Зараз працює над:</h3>
 <p align="center">
     - [Exoluma-X/Екзолума-Ехс (Викрадач інформації та програми-вимагачі мальвар) -(Завершено, але припинив розробку через те, що я випадково знищив завантажувач Windows для мого комп’ютера. Я не опублікую вихідний код!)- ]<br>
-    - [Exolus Cloud/Екзолус Клауд/Хмара (Хмарний сервіс для продажу викраденої інформації та облікових записів, який я планую випустити, коли почну)]
+    - [EX-SMS]
 </p>
 
 <h3 align="center">Я кодую в::</h3>
@@ -86,5 +86,4 @@
 <h1 </h1>
 </div>
 <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1093663968435904563/1196315644170354689/109437899.png?ex=65b72ec4&is=65a4b9c4&hm=8d22607b8c72fae0d34c01f5f56f74f1667251250f009c97d0bd1f4f417906bf&" alt="Footer Image">
-</div>
+
